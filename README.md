@@ -43,8 +43,8 @@ Bash         20 mins         ▒░░░░░░░░░░░░░░░░
 
 📈 my github stats
 
-<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" /> -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jalil-pr)](https://github.com/jalil-pr/github-readme-stats)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jalil-pr&show_icons=true&theme=gotham" alt="jalil-pr" />
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jalil-pr)](https://github.com/jalil-pr/github-readme-stats) -->
 
 
 
