@@ -1,11 +1,11 @@
-hi, i'm [Abhishek Naidu](https://abhishknads.me/), a passionate self-taught frontend developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm [jalil](https://#/), a passionate software developer and a content creator. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+i am also an open-source enthusiast. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/jalil-pr/jalil-pr/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:abhishknads.work@gmail.com) :)
+- 💼 any freelance work? do reach, [email](mailto:a8.haidari@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
@@ -25,18 +25,18 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   22 hrs 45 mins  █████████████████████▓░░░   86.15 %
+microservices   22 hrs 45 mins  █████████████████████▓░░░   86.15 %
 JavaScript   1 hr 18 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
 JSON         59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
-Groovy       21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+ai       21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 Bash         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
 ```
 
 <!--END_SECTION:waka-->
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+<!-- if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈 -->
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<!-- <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> -->
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
