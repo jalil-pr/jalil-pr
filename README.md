@@ -40,10 +40,13 @@ Bash         20 mins         ▒░░░░░░░░░░░░░░░░
 
 
 
+<p>
+
 
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jalil-pr&show_icons=true&theme=gotham" alt="jalil-pr" />
+</p>
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jalil-pr)](https://github.com/jalil-pr/github-readme-stats) -->
 
 
