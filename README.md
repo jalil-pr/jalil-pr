@@ -1,4 +1,4 @@
-hi, i'm [jalil](https://#/), a passionate software developer and a content creator. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm [Jalil](https://#/), a passionate software developer and a content creator. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 i am also an open-source enthusiast. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
@@ -36,7 +36,7 @@ Bash         20 mins         ▒░░░░░░░░░░░░░░░░
 
 <!-- if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈 -->
 
-<!-- <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> -->
+<!-- <a href="https://www.buymeacoffee.com/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> -->
 
 
 
