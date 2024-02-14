@@ -43,7 +43,7 @@ Bash         20 mins         ▒░░░░░░░░░░░░░░░░
 <p>
 
 
-📈 my github stats
+<!-- 📈 my github stats -->
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jalil-pr&show_icons=true&theme=gotham" alt="jalil-pr" />
 </p>
