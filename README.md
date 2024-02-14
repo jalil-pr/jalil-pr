@@ -21,17 +21,19 @@ i am also an open-source enthusiast. i learned a lot from the open-source commun
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<!-- 📊 **this week i spent my time on:** -->
+📊 **My typical week currently :**
 <!-- START_SECTION:waka-->
 
-<!-- ```txt
-microservices   22 hrs 45 mins  █████████████████████▓░░░   86.15 %
-JavaScript   1 hr 18 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
-JSON         59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
-ai       21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
-Bash         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
-``` -->
+```txt
+microservices   22 hrs 45 mins  ███████████████████▓░░░   
+JavaScript   1 hr 18 mins    ████░░░░░░░░░░░░░░░░░░░░░░░   
+Content creation   4-5 hrs █████████░░░░░░░░░░░░░░░░░   
+ai       21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   
+Bash         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   
+```
+```
 
+```
 <!--END_SECTION:waka -->
 
 <!-- if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈 -->
